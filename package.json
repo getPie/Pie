@@ -1,0 +1,21 @@
+{
+  "name": "pie",
+  "version": "1.0.0",
+  "description": "Schedule your time with a clock",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getPie/Pie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getPie/Pie/issues"
+  },
+  "homepage": "https://github.com/getPie/Pie#readme"
+}
